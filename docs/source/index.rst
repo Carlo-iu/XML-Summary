@@ -24,3 +24,6 @@ Lumache hosts its documentation on Read the Docs.
 
 Introduction
 --------
+
+Table of contents
+--------
