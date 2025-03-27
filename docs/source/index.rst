@@ -1,4 +1,4 @@
-XML Summary
+Welcome To XML Summary
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
