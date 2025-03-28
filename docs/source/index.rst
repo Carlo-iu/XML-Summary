@@ -15,13 +15,7 @@ The World Wide Web Consortium (W3C) designed it to create a common model for e
 
 Contents
 --------
-<library>
-    <book>
-        <title>XML Basics</title>
-        <author>John Doe</author>
-        <year>2024</year>
-    </book>
-</library>
+git clone https://github.com/yourusername/XML-Project.git
 
 
 
