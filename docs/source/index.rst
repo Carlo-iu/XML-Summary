@@ -15,13 +15,23 @@ The World Wide Web Consortium (W3C) designed it to create a common model for e
 
 Contents
 --------
-import xmlschema
-
-schema = xmlschema.XMLSchema("schema/schema.xsd")
-is_valid = schema.is_valid("data/sample.xml")
-print("Valid XML:", is_valid)
-
-
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="library">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="book" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="author" type="xs:string"/>
+                            <xs:element name="year" type="xs:int"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
 
 
 
