@@ -15,23 +15,13 @@ The World Wide Web Consortium (W3C) designed it to create a common model for e
 
 Contents
 --------
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="library">
-        <xs:complexType>
-            <xs:sequence>
-                <xs:element name="book" maxOccurs="unbounded">
-                    <xs:complexType>
-                        <xs:sequence>
-                            <xs:element name="title" type="xs:string"/>
-                            <xs:element name="author" type="xs:string"/>
-                            <xs:element name="year" type="xs:int"/>
-                        </xs:sequence>
-                    </xs:complexType>
-                </xs:element>
-            </xs:sequence>
-        </xs:complexType>
-    </xs:element>
-</xs:schema>
+<library>
+    <book>
+        <title>XML Basics</title>
+        <author>John Doe</author>
+        <year>2024</year>
+    </book>
+</library>
 
 
 
