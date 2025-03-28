@@ -15,19 +15,12 @@ The World Wide Web Consortium (W3C) designed it to create a common model for e
 
 Contents
 --------
-# XML Project 📄
+import xmlschema
 
-This repository contains structured XML data along with an XSD schema for validation.
+schema = xmlschema.XMLSchema("schema/schema.xsd")
+is_valid = schema.is_valid("data/sample.xml")
+print("Valid XML:", is_valid)
 
-## 📂 Folder Structure
-- `data/` → Contains XML files.
-- `schema/` → XML Schema Definition (`.xsd`) files.
-- `docs/` → Project documentation.
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/XML-Project.git
 
 
 
