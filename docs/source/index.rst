@@ -17,6 +17,17 @@ Contents
 --------
 `.XML AJAX <https://docs.google.com/document/d/1-xSW8c696dxb7ZmOqF6yHH5JlqeEHZ7nqKr187Dcpj8/edit?tab=t.0>`_
 
+## 📑 Table of Contents
+- [Introduction](#introduction)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [XML Example](#xml-example)
+- [XSD Schema](#xsd-schema)
+- [How to Validate XML](#how-to-validate-xml)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 
 
 
