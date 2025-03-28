@@ -20,6 +20,6 @@ Contents
 Learning summary content
 --------
 
-`https://docs.google.com/document/d/1-xSW8c696dxb7ZmOqF6yHH5JlqeEHZ7nqKr187Dcpj8/edit?usp=sharing>`_
+`https://www.youtube.com/watch?v=rdgnp916zNE>`_
 and offers a *simple* and *intuitive* API.
 
