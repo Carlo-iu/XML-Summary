@@ -24,3 +24,7 @@ Lumache hosts its documentation on Read the Docs.
 
 Introduction
 --------
+
+`www.w3school.com <https://www.w3schools.com/xml/default.asp>`_
+and offers a *simple* and *intuitive* API.
+
