@@ -3,8 +3,9 @@ Welcome To XML Summary
 
 XML (Extensible Markup Language) is a flexible and text-based format for storing, structuring, and exchanging data across platforms and applications. XML: Unlike programming languages used for computation, XML is a markup language used to organize data.
 
-The World Wide Web Consortium (W3C) designed it to create a common model for exchanging structured information across disparate systems, applications, or devices. XML is commonly used for web services, configuration files`www.w3school.com <https://www.w3schools.com/xml/default.asp>`_
-and offers a *simple* and *intuitive* API.
+The World Wide Web Consortium (W3C) designed it to create a common model for exchanging structured information across disparate systems, applications, or devices. XML is commonly used for web services, configuration files
+
+`Summary XML <https://www.w3schools.com/xml/default.asp>`_
 
 
 
