@@ -15,7 +15,8 @@ The World Wide Web Consortium (W3C) designed it to create a common model for e
 
 Contents
 --------
-git clone https://github.com/yourusername/XML-Project.git
+`.XML AJAX <https://docs.google.com/document/d/1-xSW8c696dxb7ZmOqF6yHH5JlqeEHZ7nqKr187Dcpj8/edit?tab=t.0>`_
+
 
 
 
