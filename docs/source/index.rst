@@ -17,7 +17,7 @@ Contents
 
 
 
-Learning summary content
+Learning summary Content
 --------
 
  `XML Tutorials Summary <https://docs.google.com/document/d/1-xSW8c696dxb7ZmOqF6yHH5JlqeEHZ7nqKr187Dcpj8/edit?tab=t.0>`_
